@@ -2,8 +2,8 @@
 Something about my projects
 
 #### Cards
-React app. Trello analogue (in progress).  
-Приложение на Реакте. Аналог Trello (в процессе).
+Trello-like app made with React (wip).  
+Аналог трелло, созданный с помощью React (в процессе).
 
 #### Alice
 Telegram bot. I used TypeScript to learn about strongly typed languages and practise it.  
@@ -11,7 +11,7 @@ Telegram bot. I used TypeScript to learn about strongly typed languages and prac
 
 #### My first words
 Web-game (not completed). I practiced using JavaScript and studied the possibilities of CSS, used OOP.  
-Веб-игра (не завершена). Я практиковалась с использовании JavaScript и изучала возможности CSS, использовала ООП.
+Веб-игра (не завершена). Я практиковалась в использовании JavaScript и изучала возможности CSS, использовала ООП.
 
 <!--
 **sialiss/sialiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
