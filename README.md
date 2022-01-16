@@ -2,15 +2,15 @@
 
 Something about my projects
 
-# Cards
+### Cards
 React app. Trello analogue (in progress).
 Приложение на Реакте. Аналог Trello (в процессе).
 
-# Alice
+### Alice
 Telegram bot. I used TypeScript to learn about strong typed languages and practise it.
 Телеграм бот. Я использовала TypeScript, чтобы узнать больше о языках со строгой типизацией и попрактиковаться в этом.
 
-# My first words
+### My first words
 Web-game (not completed). I practiced using JavaScript and studied the possibilities of CSS, used OOP.
 Веб-игра (не завершена). Я практиковалась с использовании JavaScript и изучала возможности CSS, использовала ООП.
 
