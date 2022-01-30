@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+javascript, typescript, react, svelte
+
 Something about my projects
 
 #### Cards
