@@ -4,7 +4,7 @@ javascript, typescript, react, svelte
 
 Something about my projects
 
-#### Test (InfoTecs)
+#### Test (InfoTeCS)
 Тестовое задание для стажировки. Предоставление данных из JSON в виде таблицы, сортировка, скрытие колонок, изменение строк. Много комментариев и документация.
 
 #### Cards
