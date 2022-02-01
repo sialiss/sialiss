@@ -4,6 +4,9 @@ javascript, typescript, react, svelte
 
 Something about my projects
 
+#### Test (InfoTecs)
+Тестовое задание для стажировки. Предоставление данных из JSON в виде таблицы, сортировка, скрытие колонок, изменение строк. Много комментариев и документация.
+
 #### Cards
 Trello-like app made with React (wip).  
 Аналог трелло, созданный с помощью React (в процессе).
