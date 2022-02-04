@@ -5,7 +5,8 @@ javascript, typescript, react, svelte
 Something about my projects
 
 #### Test (ИнфоТеКС)
-Тестовое задание для стажировки. Предоставление данных из JSON в виде таблицы, сортировка, скрытие колонок, изменение строк. Много комментариев и документация.
+Представление данных из JSON в виде таблицы, сортировка, скрытие колонок, изменение объектов. Прокомментированно, JSDoc.
+Representing data from JSON as a table, sorting, hiding columns, editing objects. Commented, JSDoc.
 
 #### Cards
 Trello-like app made with React (wip).  
