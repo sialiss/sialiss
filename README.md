@@ -5,7 +5,7 @@ javascript, typescript, react, svelte
 Something about my projects
 
 #### Test (ИнфоТеКС)
-Представление данных из JSON в виде таблицы, сортировка, скрытие колонок, изменение объектов. Прокомментированно, JSDoc.
+Представление данных из JSON в виде таблицы, сортировка, скрытие колонок, изменение объектов. Прокомментированно, JSDoc.  
 Representing data from JSON as a table, sorting, hiding columns, editing objects. Commented, JSDoc.
 
 #### Cards
