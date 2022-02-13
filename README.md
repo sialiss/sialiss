@@ -9,8 +9,8 @@ Something about my projects
 Representing data from JSON as a table, sorting, hiding columns, editing objects. Commented, JSDoc.
 
 #### Cards
-Trello-like app made with React (wip).  
-Аналог трелло, созданный с помощью React (в процессе).
+Trello-like app made with React.  
+Аналог трелло, созданный с помощью React.
 
 #### Alice
 Telegram bot. I used TypeScript to learn about strongly typed languages and practise it.  
