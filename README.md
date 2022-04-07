@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-javascript, typescript, react, svelte
+javascript, typescript, react
 
 Something about my projects
 
