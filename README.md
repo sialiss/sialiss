@@ -3,7 +3,7 @@
 javascript, typescript, react  
 C++ and C#, Unity  
   
-Весной в основном занималась вузовскими лабами на С++
+Весной в основном занималась вузовскими лабами на С/С++
 
 Something about my projects
 
