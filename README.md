@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 javascript, typescript, react  
-C++ and C#, Unity  
+C++ and C#, Unity, Godot
   
 Весной в основном занималась вузовскими лабами на С/С++
 
