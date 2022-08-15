@@ -8,6 +8,9 @@ a little C++, C#, Unity
 
 Something about my projects
 
+#### portfolio
+JS + Svelte. Site with my projects.
+
 #### GMTK-gamejam2022
 Godot. Игра для геймджема, сделана за 50 часов. Занималась программированием и геймдизайном. 
 
