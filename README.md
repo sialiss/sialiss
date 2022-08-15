@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-javascript, typescript, react  
-Godot
-<!-- C++, C#, Unity
+javascript, typescript, react, svelte  
+godot
+a little C++, C#, Unity
   
-Весной в основном занималась вузовскими лабами на С/С++ -->
+Весной в основном занималась вузовскими лабами на С/С++
 
 Something about my projects
 
