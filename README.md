@@ -4,7 +4,7 @@ javascript, typescript, react, svelte
 godot  
 a little C++, C#, Unity
 
-#### my portfolio you can see [here](https://sialiss.github.io/portfolio/).
+<strong>my portfolio you can see [here](https://sialiss.github.io/portfolio/).</strong>
 
 <!--
 **sialiss/sialiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
