@@ -1,11 +1,10 @@
 ### Hi there 👋
 
 javascript, typescript, react, svelte  
-godot
+godot  
 a little C++, C#, Unity
 
-#### portfolio
-JS + Svelte. Site with my projects.
+#### my portfolio you can see [here](https://sialiss.github.io/portfolio/).
 
 <!--
 **sialiss/sialiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
