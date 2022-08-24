@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 javascript, typescript, react, svelte  
-godot  
-a little C++, C#, Unity
+Godot, a little C++
 
 <strong>my portfolio you can see [here](https://sialiss.github.io/portfolio/).</strong>
 
