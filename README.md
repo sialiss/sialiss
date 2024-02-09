@@ -1,4 +1,4 @@
-### Hi there 👋
+### hallo 🐱
 
 javascript, typescript, react, svelte  
 Godot, a little C++
