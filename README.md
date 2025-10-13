@@ -1,6 +1,6 @@
 ### hallo 🐱
 
-javascript, typescript, react, svelte  
+javascript, typescript, vue
 Godot, a little python
 
 <strong>my portfolio you can see [here](https://sialiss.github.io/portfolio/).</strong>
