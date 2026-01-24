@@ -1,7 +1,7 @@
 ### hallo 🐱
 
-javascript, typescript, vue
-Godot, a little python
+javascript, typescript, vue  
+godot, a little python
 
 <strong>my portfolio you can see [here](https://sialiss.github.io/portfolio/).</strong>
 
